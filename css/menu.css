@@ -1,0 +1,351 @@
+.container{
+	 height:100%;
+	 width:100%;
+	 background-color:white;
+ 
+   
+    position:absolute;
+   top: 0;
+   right: 0;
+   bottom:0;
+   left: 0;
+   overflow-x:hidden;
+}
+body{
+  background: url("../img/wood.jpg") no-repeat;
+  
+}
+.header{
+	background-color:#FF6347;
+	font-family:"Courier Header";
+    font-size:20px;
+	padding:30px 160px;
+	text-align:left;
+	text-indent:5px;
+	word-spacing:50px;
+	float:left;
+	display:inline;
+	width:1200px;
+	height:70px;
+	color:white;
+	  
+}
+a:hover{
+	background-color:#FF7F50;
+	  border-radius:5px;
+	  padding:9px 9px 9px 9px;
+	}
+
+.logo{
+	width:163px;
+	height:129px;
+	position:absolute;
+	left:0;
+	top:0;
+     background-color:white;
+     border-radius:10px;
+}
+
+.button-nav{
+	width:150px;
+	height:38px;
+	position:absolute;
+	right:50px;
+	top:15px;
+	border-radius:6px;
+
+}
+.biggerButton{
+	position:absolute;
+	top:0;
+	left:0;
+	width:70px;
+	height:38px;
+}
+.smallerButton{
+	position:absolute;
+	top:0;
+	right:0;
+	height:38px;
+	width:80px;
+}
+
+.ordering{
+	width:100%;
+	height:150px;
+	position:absolute;
+	top:70px;
+	left:0;
+
+}
+
+.ordering-button1{
+	width:170px;
+	height:35px;
+	position:absolute;
+	left:600px;
+	top:-85px;
+	background-color:green;
+	border-radius:10px;
+
+}
+
+.ordering-button2{
+	width:180px;
+	height:35px;
+	position:absolute;
+	left:70px;
+	top:-85px;
+	background-color:green;
+		border-radius:10px;
+
+}
+
+
+
+
+
+
+
+
+.body-cards{
+	width:90%;
+	height:1450px;
+	position:absolute;
+	top:300px;
+	right:50px;
+	}
+
+.card1{
+	position:absolute;
+	left:0;
+	right:0;
+}
+
+.card2{
+	position:absolute;
+	top:0;
+	left:360px;
+
+}
+.card3{
+	position:absolute;
+	top:0;
+	right:0;
+}
+.card4{
+		position:absolute;
+	top:480px;
+	left:0;
+
+
+}
+.card5{
+	position:absolute;
+	top:480px;
+	left:360px;
+
+	
+}
+.card6{
+	position:absolute;
+	top:480px;
+	right:0;
+
+	
+}
+
+
+
+.card7{
+	position:absolute;
+	top:980px;
+	left:0;
+
+	
+}
+
+.card8{
+	position:absolute;
+	top:980px;
+    left:360px;
+	
+}
+
+.card9{
+	position:absolute;
+	top:980px;
+	right:0;
+
+	
+}
+.card-button{
+	background-color: white; 
+  color: black; 
+  border: 2px solid #f44336;	
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+position:absolute;
+top:360px;
+}
+
+
+
+
+.card-button:hover {
+background-color: #f44336;
+  color: white;
+}
+
+.card-text{
+	font-size:12px;
+
+}
+
+
+
+
+
+.CCA{
+	width:100%;
+	height:290px;
+	position:absolute;
+	top:1900px;
+	left:0;
+}
+
+.contact-d{
+	 position:absolute;
+    top:-840px;
+    left:0px;
+    width: 100%;
+    height:80px;
+    background-color:#DCDCDC;
+}
+.number{
+		background-image:url('../img/telephone.png');
+		      border-radius:;
+
+		width:4%;
+        height:30%;
+background-size: contain;
+  background-repeat: no-repeat;
+  position:absolute;
+  left:35px;
+  top:30px;
+
+
+}
+.location{
+background-image:url('../img/location1.png');
+
+width:3.5%;
+height:28%;
+background-size: contain;
+  background-repeat: no-repeat;
+  position:absolute;
+	left:320px;
+	top:30px;
+	    border-radius:18px;
+
+}
+.email{
+	background-image:url('../img/mail.png');
+width:4%;
+height:29%;
+background-size: contain;
+  background-repeat: no-repeat;
+position:absolute;
+	left:770px;
+	top:24px;
+}
+
+
+
+.phone-text{
+	position:absolute;
+	left:0;
+	top:30px;
+	font-family:"Courier Header";
+	font-size:14px;
+
+
+}
+
+.location-text{
+	position:absolute;
+	left:250px;
+	top:20px;
+	font-family:"Courier Header";
+	font-size:14px;
+
+}
+
+.email-text{
+	position:absolute;
+	left:720px;
+	top:20px;
+	font-family:"Courier Header";
+	font-size:14px;
+
+}
+
+
+.coca-cola{
+	width:100%;
+	height:110px;
+	position:absolute;
+	left:0;
+	top:0;
+
+}
+.coca2{
+	position:absolute;
+	left:200px;
+	top:0;
+}
+.coca3{
+	position:absolute;
+	left:400px;
+	top:0;
+}
+.coca4{
+	position:absolute;
+	left:600px;
+	top:0;
+}
+.coca5{
+	position:absolute;
+	left:760px;
+	top:0;
+}
+.coca6{
+	position:absolute;
+	left:960px;
+	top:0;
+}
+
+
+
+.about{
+	width:73%;
+	position:absolute;
+	top:15px;
+	left:200px;
+	height:100px;
+	}
+.about-cover{
+	width:100%;
+	height:180px;
+	position:absolute;
+	top:190px;
+	left:0;
+	background-color:#DCDCDC;
+}
